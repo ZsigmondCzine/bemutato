@@ -3,7 +3,7 @@ package com.epam.course;
 import java.io.PrintStream;
 import java.util.Iterator;
 
-public final class App {
+public final class  App {
 
 	static interface IteratorFactory {
 		Iterator<String> getInstance(String[] args);
